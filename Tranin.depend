@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1526557524 source:c:\users\vincent leo\desktop\new folder (2)\tranin\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<iomanip>
+
+1526611539 source:c:\users\vincent leo\desktop\c++\tranin\main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<iomanip>
+
